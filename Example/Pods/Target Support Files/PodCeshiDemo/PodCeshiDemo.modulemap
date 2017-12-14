@@ -1,0 +1,6 @@
+framework module PodCeshiDemo {
+  umbrella header "PodCeshiDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

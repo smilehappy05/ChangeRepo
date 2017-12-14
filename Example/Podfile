@@ -1,4 +1,5 @@
 use_frameworks!
+source 'https://github.com/CocoaPods/Specs.git'        #官方仓库地址
 
 target 'PodCeshiDemo_Example' do
   pod 'PodCeshiDemo', :path => '../'

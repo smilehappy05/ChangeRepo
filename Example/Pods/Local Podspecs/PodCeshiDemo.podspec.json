@@ -1,0 +1,30 @@
+{
+  "name": "PodCeshiDemo",
+  "version": "0.1.0",
+  "summary": "A short description of PodCeshiDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/smilehappy05/PodCeshiDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "smilehappy05": "ya.zhang@weimob.com"
+  },
+  "source": {
+    "git": "https://github.com/smilehappy05/PodCeshiDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PodCeshiDemo/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+      "~> 2.3"
+    ],
+    "SDWebImage": [
+      "~> 4.0.0"
+    ]
+  }
+}
